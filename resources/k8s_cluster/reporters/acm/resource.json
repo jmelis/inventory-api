@@ -27,20 +27,6 @@
                 "GKE"
             ]
         },
-        // "fedramp": { "type": "boolean" },
-        // "addon": { "type": "array", "items": [
-        //     {
-        //         "type": "object",
-        //         "properties": {
-        //             "name": { "type": "string", "enum":["strimzi"]},
-        //             "version": { "type": "string" }
-        //         },
-        //         "required": [
-        //             "name",
-        //             "version"
-        //         ]
-        //     }
-        // ]},
         "vendor_version": { "type": "string" },
         "cloud_platform": {
             "type": "string",
